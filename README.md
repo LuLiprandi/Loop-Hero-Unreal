@@ -8,7 +8,7 @@ Le jeu raconte l’histoire de Ava, une petite fille de 9 ans qui s’endort lor
 
 Le joueur guide Ava le long d’un parcours jusqu’au manoir. Le chemin est constitué de cases qui peuvent contenir un fantôme, un squelette,  ou rester neutres. Certaines cases déclenchent des dialogues, d’autres ont des effets qui peuvent ralentir ou accélérer la progression, ou modifier la peur d’Ava qui est représenté par une jauge.
 
-&nbsp;
+ 
 
 Déplacement
 
@@ -36,13 +36,13 @@ un dialogue linéaire
 
 3\. Case Malus
 
-Donne de la peur 
+Donne de la peur
 
 
 
 4\. Case Bonus
 
-Enlève de la peur 
+Enlève de la peur
 
 Système de peur
 
@@ -76,7 +76,7 @@ Ils n’indiquent pas automatiquement un effet positif ou négatif
 
 Leur présence est narrative
 
-Ils sont dans les cases dialogues 
+Ils sont dans les cases dialogues
 
 
 
@@ -88,7 +88,7 @@ Objectif : atteindre le manoir.
 
 Pour y parvenir, le joueur doit :
 
-traverser le parcours 
+traverser le parcours
 
 faire face aux ralentissements et aux dialogues
 
@@ -117,4 +117,27 @@ Bouton Lancer le dé
 Jauge de peur visible en permanence
 
 
+
+
+
+
+
+MINI JEU :
+Pendant sa traversée de la forêt, Ava s’endort à nouveau, comme happée par une force invisible. Elle se réveille alors dans un labyrinthe étrange et silencieux. Pour espérer revenir à elle, elle devra retrouver les 7 peluches disséminées dans ce lieu mystérieux dans un temps impartie de 1 minute.
+
+MINI JEU :
+
+Tandis que le sort des fantômes se referme sur elle, Ava doit impérativement se dérober au regard vigilant du squelette géant. Arriverez vous à vous cacher de celui ci ? Attention au conséquences ! (j'ai perdu le mesh du propriétaire donc ca sera un squelette)
+
+# 
+
+Le joueur a deux minute pour se cacher ou fuir en utilisant zqsd et les éléments du décors. 
+
+Victoire :
+
+Si vous tenez les deux minutes vous gagnez et retournez au level principal.
+
+Défaite :
+
+Vous vous faite attraper.
 
